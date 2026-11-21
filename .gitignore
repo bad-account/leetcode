@@ -1,0 +1,26 @@
+# VS Code (lokální nastavení editoru)
+.vscode/
+
+# C++ (zkompilované binárky a objektové soubory)
+*.exe
+*.out
+*.app
+*.o
+*.obj
+*.pdb
+*.ilk
+
+# Python (cache a virtuální prostředí)
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+
+# Rust (pokud ho v budoucnu přidáš)
+target/
+Cargo.lock
+
+# Windows systémové soubory
+Thumbs.db
+desktop.ini

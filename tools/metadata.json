@@ -1,0 +1,65 @@
+[
+  {
+    "id": 26,
+    "title": "Remove Duplicates from Sorted Array",
+    "difficulty": "Easy",
+    "tags": ["Array", "Two Pointers"],
+    "languages": ["cpp"]
+  },
+  {
+    "id": 27,
+    "title": "Remove Element",
+    "difficulty": "Easy",
+    "tags": ["Array", "Two Pointers"],
+    "languages": ["cpp"]
+  },
+  {
+    "id": 28,
+    "title": "Find the Index of the First Occurrence in a String",
+    "difficulty": "Easy",
+    "tags": ["Two Pointers", "String", "String Matching"],
+    "languages": ["cpp"]
+  },
+  {
+    "id": 35,
+    "title": "Search Insert Position",
+    "difficulty": "Easy",
+    "tags": ["Array", "Binary Search"],
+    "languages": ["cpp"]
+  },
+  {
+    "id": 58,
+    "title": "Length of Last Word",
+    "difficulty": "Easy",
+    "tags": ["String"],
+    "languages": ["cpp"]
+  },
+  {
+    "id": 66,
+    "title": "Plus One",
+    "difficulty": "Easy",
+    "tags": ["Array", "Math"],
+    "languages": ["cpp"]
+  },
+  {
+    "id": 100,
+    "title": "Same Tree",
+    "difficulty": "Easy",
+    "tags": ["Tree", "Depth-First Search", "Breadth-First Search", "Binary Tree"],
+    "languages": ["cpp"]
+  },
+  {
+    "id": 118,
+    "title": "Pascal's Triangle",
+    "difficulty": "Easy",
+    "tags": ["Array", "Dynamic Programming"],
+    "languages": ["cpp"]
+  },
+  {
+    "id": 169,
+    "title": "Majority Element",
+    "difficulty": "Easy",
+    "tags": ["Array", "Hash Table", "Divide and Conquer", "Sorting", "Counting"],
+    "languages": ["cpp"]
+  }
+]
