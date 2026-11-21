@@ -17,7 +17,7 @@
     "id": 28,
     "title": "Find the Index of the First Occurrence in a String",
     "difficulty": "Easy",
-    "tags": ["Two Pointers", "String", "String Matching"],
+    "tags": ["Two Pointers", "String", "String Matching", "Z Algorithm"],
     "languages": ["cpp"]
   },
   {
@@ -39,6 +39,13 @@
     "title": "Plus One",
     "difficulty": "Easy",
     "tags": ["Array", "Math"],
+    "languages": ["cpp"]
+  },
+  {
+    "id": 88,
+    "title": "88. Merge Sorted Array",
+    "difficulty": "Easy",
+    "tags": ["Array", "Two Pointers", "Sorting"],
     "languages": ["cpp"]
   },
   {
